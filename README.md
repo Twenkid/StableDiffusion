@@ -1,6 +1,10 @@
 # StableDiffusion
 Tips, experience, generations etc.
 
+As of 17.4.2023: A SD 2.1 notebook with GUI:
+https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb#scrollTo=6x8gRvmV3ieY
+
+
 ```
 biomechanoid cloning starbase landscape with nebula background	
 biomechanoid towers on valley landscape with nebula background
