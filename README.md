@@ -4,6 +4,7 @@ Tips, experience, generations etc.
 As of 17.4.2023: A SD 2.1 notebook with GUI:
 https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb#scrollTo=6x8gRvmV3ieY
 
+29.4.2023: Xformers seem to be unsupported already, uncheck the checkbox before installing the dependencies!
 
 ```
 biomechanoid cloning starbase landscape with nebula background	
