@@ -5,6 +5,11 @@ As of 17.4.2023: A SD 2.1 notebook with GUI:
 https://colab.research.google.com/github/qunash/stable-diffusion-2-gui/blob/main/stable_diffusion_2_0.ipynb#scrollTo=6x8gRvmV3ieY
 
 29.4.2023: Xformers seem to be unsupported already, uncheck the checkbox before installing the dependencies!
+Try to use fine-tuned models; can't find the .cpkt file
+See DreamBooth etc., research.
+https://civitai.com/models/28112/xsarchitectural-interiordesign-forxslora?fbclid=IwAR0-sELPmYN3wgQ8zQrSF6oRyZs2pUkdR-H-b3WHLNeZN36tgTqX70OMNsc
+
+
 
 ```
 biomechanoid cloning starbase landscape with nebula background	
